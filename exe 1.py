@@ -59,18 +59,24 @@ equipamentos = {
 }
 }
 monstros = {
-    1:{'nome':'Rato',
+     1:{'nome':'Rato',
        'habilidade':{
            'ataque':1,
            'defesa':0,
            'vida':1,}
       },
-        2:{'nome':'Formiga',
+      2:{'nome':'Formiga',
        'habilidade':{
            'ataque':2,
            'defesa':2,
            'vida':1,}
       },
+      3:{'nome':'Coelho',
+       'habilidade':{
+           'ataque':4,
+           'defesa':3,
+           'vida':1,}
+      }
 },
 
 
